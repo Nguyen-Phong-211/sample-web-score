@@ -2,24 +2,20 @@
     <nav class="pull-left">
         <ul class="nav">
             <li class="nav-item">
-                <a class="nav-link" href="http://www.themekita.com">
+                <a class="nav-link" target="_blank" href="https://github.com/Nguyen-Phong-211/sample-web-score">
                     Githup
                 </a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#"> Help </a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#"> Licenses </a>
+                <a class="nav-link" href="mailto:phongnguyen.050503@gmail.com"> phongnguyen.050503@gmail.com </a>
             </li>
         </ul>
     </nav>
     <div class="copyright">
-        2024, made with <i class="fa fa-heart heart text-danger"></i> by
-        <a href="http://www.themekita.com">ThemeKita</a>
+        Implementer by Nguyen Nguyen Phong
     </div>
     <div>
-        Distributed by
-        <a target="_blank" href="https://themewagon.com/">ThemeWagon</a>.
+        The template is referenced from
+        <a target="_blank" href="https://themewagon.com/themes/kaiadmin/">ThemeWagon</a>.
     </div>
 </div>
